@@ -1,7 +1,8 @@
 import * as React from "react";
 
 const Box = (props) => {
-  return (
+    console.log("App - Boxes");
+    return (
     <div
       style={{
         width: "140px",
